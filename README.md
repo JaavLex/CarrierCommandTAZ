@@ -1,6 +1,8 @@
 # CarrierCommandTAZ
 Taz 90 with foxcorp logo mod for Carrier Command on Steam
 
+![image](https://github.com/user-attachments/assets/d67fb508-1ff2-447a-b890-bd050b819421)
+
 Steam workshop url: https://steamcommunity.com/sharedfiles/filedetails/?id=3386189122&searchtext=
 
 Description:
